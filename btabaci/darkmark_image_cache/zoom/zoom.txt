@@ -1,0 +1,532 @@
+/content/btabaci/1.jpg -> creating RoI from [x=52 y=333 w=341 h=341]
+/content/btabaci/1.jpg [777x1070] -> /content/btabaci/darkmark_image_cache/zoom/00000116.jpg [f=0.820846 x=52 y=333 w=341 h=341] -> [416x416] [3/10]
+/content/btabaci/1.jpg -> creating RoI from [x=82 y=31 w=660 h=660]
+/content/btabaci/1.jpg [777x1070] -> /content/btabaci/darkmark_image_cache/zoom/00000117.jpg [f=1.58575 x=82 y=31 w=660 h=660] -> [416x416] [8/10]
+/content/btabaci/1.jpg-> adding RoI because it includes point-of-interest x=414 y=709
+/content/btabaci/1.jpg -> creating RoI from [x=0 y=133 w=773 h=773]
+/content/btabaci/1.jpg [777x1070] -> /content/btabaci/darkmark_image_cache/zoom/00000118.jpg [f=1.85852 x=0 y=133 w=773 h=773] -> [416x416] [10/10]
+/content/btabaci/1.jpg -> skipped RoI [x=136 y=267 w=556 h=556] due to overlap
+/content/btabaci/1.jpg-> adding RoI because it includes point-of-interest x=425 y=938
+/content/btabaci/1.jpg -> creating RoI from [x=103 y=303 w=649 h=649]
+/content/btabaci/1.jpg [777x1070] -> /content/btabaci/darkmark_image_cache/zoom/00000119.jpg [f=1.55907 x=103 y=303 w=649 h=649] -> [416x416] [7/10]
+/content/btabaci/1.jpg -> skipped RoI [x=65 y=204 w=618 h=618] due to overlap
+/content/btabaci/1.jpg -> skipped RoI [x=115 y=125 w=655 h=655] due to overlap
+/content/btabaci/1.jpg -> skipped RoI [x=298 y=473 w=428 h=428] due to overlap
+/content/btabaci/1.jpg-> adding RoI because it includes point-of-interest x=510 y=959
+/content/btabaci/1.jpg -> creating RoI from [x=175 y=526 w=435 h=435]
+/content/btabaci/1.jpg [777x1070] -> /content/btabaci/darkmark_image_cache/zoom/00000120.png [f=1.04501 x=175 y=526 w=435 h=435] -> [416x416] [4/10]
+/content/btabaci/1.jpg -> skipped RoI [x=144 y=312 w=620 h=620] due to overlap
+/content/btabaci/1.jpg -> skipped RoI [x=7 y=194 w=762 h=762] due to overlap
+/content/btabaci/1.jpg -> skipped RoI [x=225 y=342 w=437 h=437] due to overlap
+/content/btabaci/1.jpg -> skipped RoI [x=214 y=6 w=363 h=363] due to overlap
+/content/btabaci/1.jpg -> skipped RoI [x=30 y=318 w=621 h=621] due to overlap
+/content/btabaci/1.jpg -> still had 2 items remaining in the points-of-interest
+/content/btabaci/10.png -> creating RoI from [x=63 y=73 w=513 h=513]
+/content/btabaci/10.png [579x657] -> /content/btabaci/darkmark_image_cache/zoom/00000121.jpg [f=1.23235 x=63 y=73 w=513 h=513] -> [416x416] [23/38]
+/content/btabaci/10.png-> adding RoI because it includes point-of-interest x=31 y=580
+/content/btabaci/10.png -> creating RoI from [x=27 y=63 w=530 h=530]
+/content/btabaci/10.png [579x657] -> /content/btabaci/darkmark_image_cache/zoom/00000122.png [f=1.27423 x=27 y=63 w=530 h=530] -> [416x416] [25/38]
+/content/btabaci/10.png -> skipped RoI [x=48 y=138 w=447 h=447] due to overlap
+/content/btabaci/10.png-> adding RoI because it includes point-of-interest x=43 y=593
+/content/btabaci/10.png -> creating RoI from [x=36 y=110 w=538 h=538]
+/content/btabaci/10.png [579x657] -> /content/btabaci/darkmark_image_cache/zoom/00000123.jpg [f=1.29323 x=36 y=110 w=538 h=538] -> [416x416] [23/38]
+/content/btabaci/10.png -> skipped RoI [x=83 y=139 w=485 h=485] due to overlap
+/content/btabaci/10.png -> skipped RoI [x=28 y=213 w=336 h=336] due to overlap
+/content/btabaci/10.png-> adding RoI because it includes point-of-interest x=320 y=17
+/content/btabaci/10.png -> creating RoI from [x=17 y=16 w=536 h=536]
+/content/btabaci/10.png [579x657] -> /content/btabaci/darkmark_image_cache/zoom/00000124.jpg [f=1.28927 x=17 y=16 w=536 h=536] -> [416x416] [31/38]
+/content/btabaci/10.png -> skipped RoI [x=146 y=266 w=353 h=353] due to overlap
+/content/btabaci/10.png -> skipped RoI [x=124 y=176 w=422 h=422] due to overlap
+/content/btabaci/10.png-> adding RoI because it includes point-of-interest x=321 y=1
+/content/btabaci/10.png -> creating RoI from [x=109 y=1 w=412 h=412]
+/content/btabaci/10.png [579x657] -> /content/btabaci/darkmark_image_cache/zoom/00000125.png [f=0.989716 x=109 y=1 w=412 h=412] -> [416x416] [26/38]
+/content/btabaci/10.png -> skipped RoI [x=140 y=145 w=393 h=393] due to overlap
+/content/btabaci/10.png-> adding RoI because it includes point-of-interest x=19 y=612
+/content/btabaci/10.png -> creating RoI from [x=5 y=144 w=493 h=493]
+/content/btabaci/10.png [579x657] -> /content/btabaci/darkmark_image_cache/zoom/00000126.png [f=1.18622 x=5 y=144 w=493 h=493] -> [416x416] [22/38]
+/content/btabaci/10.png -> skipped RoI [x=54 y=56 w=482 h=482] due to overlap
+/content/btabaci/10.png -> skipped RoI [x=80 y=168 w=377 h=377] due to overlap
+/content/btabaci/10.png -> skipped RoI [x=104 y=17 w=350 h=350] due to overlap
+/content/btabaci/10.png -> skipped RoI [x=93 y=211 w=417 h=417] due to overlap
+/content/btabaci/10.png -> skipped RoI [x=44 y=78 w=523 h=523] due to overlap
+/content/btabaci/11.png -> creating RoI from [x=224 y=195 w=345 h=345]
+/content/btabaci/11.png [594x627] -> /content/btabaci/darkmark_image_cache/zoom/00000127.png [f=0.829136 x=224 y=195 w=345 h=345] -> [416x416] [4/17]
+/content/btabaci/11.png-> adding RoI because it includes point-of-interest x=67 y=196
+/content/btabaci/11.png -> creating RoI from [x=5 y=21 w=588 h=588]
+/content/btabaci/11.png [594x627] -> /content/btabaci/darkmark_image_cache/zoom/00000128.jpg [f=1.41379 x=5 y=21 w=588 h=588] -> [416x416] [16/17]
+/content/btabaci/11.png -> skipped RoI [x=37 y=63 w=524 h=524] due to overlap
+/content/btabaci/11.png-> adding RoI because it includes point-of-interest x=517 y=610
+/content/btabaci/11.png -> creating RoI from [x=68 y=101 w=511 h=511]
+/content/btabaci/11.png [594x627] -> /content/btabaci/darkmark_image_cache/zoom/00000129.jpg [f=1.22756 x=68 y=101 w=511 h=511] -> [416x416] [14/17]
+/content/btabaci/11.png -> skipped RoI [x=99 y=125 w=484 h=484] due to overlap
+/content/btabaci/11.png -> skipped RoI [x=182 y=75 w=402 h=402] due to overlap
+/content/btabaci/11.png -> skipped RoI [x=74 y=233 w=370 h=370] due to overlap
+/content/btabaci/11.png -> skipped RoI [x=98 y=180 w=431 h=431] due to overlap
+/content/btabaci/11.png -> skipped RoI [x=49 y=29 w=545 h=545] due to overlap
+/content/btabaci/11.png -> still had 5 items remaining in the points-of-interest
+/content/btabaci/12.png -> creating RoI from [x=32 y=130 w=443 h=443]
+/content/btabaci/12.png [534x731] -> /content/btabaci/darkmark_image_cache/zoom/00000130.jpg [f=1.06473 x=32 y=130 w=443 h=443] -> [416x416] [18/34]
+/content/btabaci/12.png-> adding RoI because it includes point-of-interest x=18 y=509
+/content/btabaci/12.png -> creating RoI from [x=11 y=327 w=391 h=391]
+/content/btabaci/12.png [534x731] -> /content/btabaci/darkmark_image_cache/zoom/00000131.png [f=0.940347 x=11 y=327 w=391 h=391] -> [416x416] [17/34]
+/content/btabaci/12.png-> adding RoI because it includes point-of-interest x=483 y=307
+/content/btabaci/12.png -> creating RoI from [x=130 y=50 w=365 h=365]
+/content/btabaci/12.png [534x731] -> /content/btabaci/darkmark_image_cache/zoom/00000132.png [f=0.877806 x=130 y=50 w=365 h=365] -> [416x416] [15/34]
+/content/btabaci/12.png -> skipped RoI [x=36 y=62 w=334 h=334] due to overlap
+/content/btabaci/12.png-> adding RoI because it includes point-of-interest x=414 y=579
+/content/btabaci/12.png -> creating RoI from [x=61 y=154 w=430 h=430]
+/content/btabaci/12.png [534x731] -> /content/btabaci/darkmark_image_cache/zoom/00000133.png [f=1.03274 x=61 y=154 w=430 h=430] -> [416x416] [21/34]
+/content/btabaci/12.png -> skipped RoI [x=59 y=157 w=419 h=419] due to overlap
+/content/btabaci/12.png-> adding RoI because it includes point-of-interest x=10 y=455
+/content/btabaci/12.png -> creating RoI from [x=3 y=209 w=475 h=475]
+/content/btabaci/12.png [534x731] -> /content/btabaci/darkmark_image_cache/zoom/00000134.png [f=1.14121 x=3 y=209 w=475 h=475] -> [416x416] [26/34]
+/content/btabaci/12.png-> adding RoI because it includes point-of-interest x=485 y=618
+/content/btabaci/12.png -> creating RoI from [x=85 y=202 w=437 h=437]
+/content/btabaci/12.png [534x731] -> /content/btabaci/darkmark_image_cache/zoom/00000135.png [f=1.04984 x=85 y=202 w=437 h=437] -> [416x416] [23/34]
+/content/btabaci/12.png -> skipped RoI [x=15 y=105 w=493 h=493] due to overlap
+/content/btabaci/12.png -> skipped RoI [x=66 y=68 w=411 h=411] due to overlap
+/content/btabaci/12.png-> adding RoI because it includes point-of-interest x=485 y=641
+/content/btabaci/12.png -> creating RoI from [x=22 y=176 w=470 h=470]
+/content/btabaci/12.png [534x731] -> /content/btabaci/darkmark_image_cache/zoom/00000136.png [f=1.12962 x=22 y=176 w=470 h=470] -> [416x416] [25/34]
+/content/btabaci/12.png -> skipped RoI [x=135 y=192 w=391 h=391] due to overlap
+/content/btabaci/12.png -> skipped RoI [x=50 y=229 w=451 h=451] due to overlap
+/content/btabaci/12.png -> skipped RoI [x=5 y=63 w=456 h=456] due to overlap
+/content/btabaci/12.png -> skipped RoI [x=84 y=57 w=335 h=335] due to overlap
+/content/btabaci/12.png-> adding RoI because it includes point-of-interest x=293 y=48
+/content/btabaci/12.png -> creating RoI from [x=17 y=11 w=417 h=417]
+/content/btabaci/12.png [534x731] -> /content/btabaci/darkmark_image_cache/zoom/00000137.jpg [f=1.00271 x=17 y=11 w=417 h=417] -> [416x416] [18/34]
+/content/btabaci/12.png -> skipped RoI [x=6 y=119 w=369 h=369] due to overlap
+/content/btabaci/12.png -> skipped RoI [x=2 y=256 w=398 h=398] due to overlap
+/content/btabaci/12.png -> skipped RoI [x=80 y=208 w=338 h=338] due to overlap
+/content/btabaci/12.png -> skipped RoI [x=14 y=17 w=490 h=490] due to overlap
+/content/btabaci/12.png -> skipped RoI [x=13 y=196 w=418 h=418] due to overlap
+/content/btabaci/12.png -> still had 3 items remaining in the points-of-interest
+/content/btabaci/13.jpg -> creating RoI from [x=9 y=100 w=562 h=562]
+/content/btabaci/13.jpg [600x668] -> /content/btabaci/darkmark_image_cache/zoom/00000138.jpg [f=1.35056 x=9 y=100 w=562 h=562] -> [416x416] [17/17]
+/content/btabaci/13.jpg -> skipped RoI [x=26 y=8 w=534 h=534] due to overlap
+/content/btabaci/13.jpg-> adding RoI because it includes point-of-interest x=584 y=337
+/content/btabaci/13.jpg -> creating RoI from [x=34 y=60 w=555 h=555]
+/content/btabaci/13.jpg [600x668] -> /content/btabaci/darkmark_image_cache/zoom/00000139.png [f=1.33327 x=34 y=60 w=555 h=555] -> [416x416] [15/17]
+/content/btabaci/13.jpg -> skipped RoI [x=4 y=21 w=590 h=590] due to overlap
+/content/btabaci/13.jpg -> skipped RoI [x=52 y=7 w=548 h=548] due to overlap
+/content/btabaci/13.jpg -> skipped RoI [x=51 y=94 w=542 h=542] due to overlap
+/content/btabaci/13.jpg -> skipped RoI [x=10 y=125 w=522 h=522] due to overlap
+/content/btabaci/13.jpg -> skipped RoI [x=170 y=50 w=372 h=372] due to overlap
+/content/btabaci/14.jpg [295x371] -> skipped (image too small)
+/content/btabaci/15.jpg -> creating RoI from [x=23 y=237 w=339 h=339]
+/content/btabaci/15.jpg [591x607] -> /content/btabaci/darkmark_image_cache/zoom/00000140.png [f=0.814221 x=23 y=237 w=339 h=339] -> [416x416] [1/2]
+/content/btabaci/15.jpg-> adding RoI because it includes point-of-interest x=88 y=193
+/content/btabaci/15.jpg -> creating RoI from [x=48 y=147 w=390 h=390]
+/content/btabaci/15.jpg [591x607] -> /content/btabaci/darkmark_image_cache/zoom/00000141.jpg [f=0.936648 x=48 y=147 w=390 h=390] -> [416x416] [1/2]
+/content/btabaci/15.jpg-> adding RoI because it includes point-of-interest x=104 y=121
+/content/btabaci/15.jpg -> creating RoI from [x=71 y=85 w=441 h=441]
+/content/btabaci/15.jpg [591x607] -> /content/btabaci/darkmark_image_cache/zoom/00000142.png [f=1.06007 x=71 y=85 w=441 h=441] -> [416x416] [2/2]
+/content/btabaci/15.jpg-> adding RoI because it includes point-of-interest x=104 y=49
+/content/btabaci/15.jpg -> creating RoI from [x=94 y=4 w=487 h=487]
+/content/btabaci/15.jpg [591x607] -> /content/btabaci/darkmark_image_cache/zoom/00000143.png [f=1.1714 x=94 y=4 w=487 h=487] -> [416x416] [2/2]
+/content/btabaci/15.jpg-> adding RoI because it includes point-of-interest x=12 y=49
+/content/btabaci/15.jpg -> creating RoI from [x=8 y=27 w=556 h=556]
+/content/btabaci/15.jpg [591x607] -> /content/btabaci/darkmark_image_cache/zoom/00000144.png [f=1.3363 x=8 y=27 w=556 h=556] -> [416x416] [2/2]
+/content/btabaci/15.jpg -> skipped RoI [x=1 y=42 w=396 h=396] due to overlap
+/content/btabaci/15.jpg -> skipped RoI [x=14 y=147 w=453 h=453] due to overlap
+/content/btabaci/15.jpg -> skipped RoI [x=12 y=17 w=577 h=577] due to overlap
+/content/btabaci/15.jpg -> skipped RoI [x=127 y=46 w=449 h=449] due to overlap
+/content/btabaci/15.jpg -> skipped RoI [x=17 y=42 w=535 h=535] due to overlap
+/content/btabaci/16.jpeg [596x356] -> skipped (image too small)
+/content/btabaci/17.jpeg [325x494] -> skipped (image too small)
+/content/btabaci/18.jpeg [751x419] -> skipped (image too small)
+/content/btabaci/19.jpeg [477x782] -> skipped (image too small)
+/content/btabaci/2.jpg -> creating RoI from [x=55 y=239 w=362 h=362]
+/content/btabaci/2.jpg [797x614] -> /content/btabaci/darkmark_image_cache/zoom/00000145.png [f=0.870107 x=55 y=239 w=362 h=362] -> [416x416] [1/2]
+/content/btabaci/2.jpg -> skipped RoI [x=92 y=65 w=470 h=470] due to overlap
+/content/btabaci/2.jpg -> creating RoI from [x=163 y=3 w=592 h=592]
+/content/btabaci/2.jpg [797x614] -> /content/btabaci/darkmark_image_cache/zoom/00000146.jpg [f=1.42315 x=163 y=3 w=592 h=592] -> [416x416] [2/2]
+/content/btabaci/2.jpg -> skipped RoI [x=84 y=114 w=370 h=370] due to overlap
+/content/btabaci/2.jpg -> skipped RoI [x=215 y=76 w=434 h=434] due to overlap
+/content/btabaci/2.jpg -> skipped RoI [x=56 y=54 w=407 h=407] due to overlap
+/content/btabaci/2.jpg -> skipped RoI [x=226 y=41 w=477 h=477] due to overlap
+/content/btabaci/2.jpg -> skipped RoI [x=66 y=164 w=397 h=397] due to overlap
+/content/btabaci/20.jpeg -> creating RoI from [x=36 y=216 w=419 h=419]
+/content/btabaci/20.jpeg [539x681] -> /content/btabaci/darkmark_image_cache/zoom/00000147.png [f=1.00754 x=36 y=216 w=419 h=419] -> [416x416] [20/28]
+/content/btabaci/20.jpeg-> adding RoI because it includes point-of-interest x=465 y=372
+/content/btabaci/20.jpeg -> creating RoI from [x=130 y=99 w=348 h=348]
+/content/btabaci/20.jpeg [539x681] -> /content/btabaci/darkmark_image_cache/zoom/00000148.jpg [f=0.835853 x=130 y=99 w=348 h=348] -> [416x416] [18/28]
+/content/btabaci/20.jpeg-> adding RoI because it includes point-of-interest x=486 y=354
+/content/btabaci/20.jpeg -> creating RoI from [x=143 y=183 w=381 h=381]
+/content/btabaci/20.jpeg [539x681] -> /content/btabaci/darkmark_image_cache/zoom/00000149.png [f=0.914692 x=143 y=183 w=381 h=381] -> [416x416] [21/28]
+/content/btabaci/20.jpeg-> adding RoI because it includes point-of-interest x=507 y=146
+/content/btabaci/20.jpeg -> creating RoI from [x=27 y=32 w=483 h=483]
+/content/btabaci/20.jpeg [539x681] -> /content/btabaci/darkmark_image_cache/zoom/00000150.png [f=1.16097 x=27 y=32 w=483 h=483] -> [416x416] [26/28]
+/content/btabaci/20.jpeg -> skipped RoI [x=65 y=134 w=440 h=440] due to overlap
+/content/btabaci/20.jpeg-> adding RoI because it includes point-of-interest x=533 y=146
+/content/btabaci/20.jpeg -> creating RoI from [x=5 y=6 w=533 h=533]
+/content/btabaci/20.jpeg [539x681] -> /content/btabaci/darkmark_image_cache/zoom/00000151.png [f=1.28101 x=5 y=6 w=533 h=533] -> [416x416] [27/28]
+/content/btabaci/20.jpeg -> skipped RoI [x=17 y=96 w=499 h=499] due to overlap
+/content/btabaci/20.jpeg -> skipped RoI [x=67 y=31 w=442 h=442] due to overlap
+/content/btabaci/20.jpeg -> skipped RoI [x=2 y=119 w=378 h=378] due to overlap
+/content/btabaci/20.jpeg -> skipped RoI [x=5 y=281 w=367 h=367] due to overlap
+/content/btabaci/20.jpeg -> skipped RoI [x=3 y=75 w=509 h=509] due to overlap
+/content/btabaci/21.jpeg -> creating RoI from [x=97 y=54 w=603 h=603]
+/content/btabaci/21.jpeg [1107x943] -> /content/btabaci/darkmark_image_cache/zoom/00000152.png [f=1.44873 x=97 y=54 w=603 h=603] -> [416x416] [1/11]
+/content/btabaci/21.jpeg -> creating RoI from [x=582 y=231 w=462 h=462]
+/content/btabaci/21.jpeg [1107x943] -> /content/btabaci/darkmark_image_cache/zoom/00000153.png [f=1.11139 x=582 y=231 w=462 h=462] -> [416x416] [0/11]
+/content/btabaci/21.jpeg-> adding RoI because it includes point-of-interest x=977 y=103
+/content/btabaci/21.jpeg -> creating RoI from [x=169 y=34 w=849 h=849]
+/content/btabaci/21.jpeg [1107x943] -> /content/btabaci/darkmark_image_cache/zoom/00000154.jpg [f=2.0411 x=169 y=34 w=849 h=849] -> [416x416] [4/11]
+/content/btabaci/21.jpeg -> skipped RoI [x=518 y=42 w=433 h=433] due to overlap
+/content/btabaci/21.jpeg -> skipped RoI [x=198 y=32 w=800 h=800] due to overlap
+/content/btabaci/21.jpeg -> skipped RoI [x=420 y=396 w=421 h=421] due to overlap
+/content/btabaci/21.jpeg -> skipped RoI [x=490 y=195 w=546 h=546] due to overlap
+/content/btabaci/21.jpeg-> adding RoI because it includes point-of-interest x=441 y=24
+/content/btabaci/21.jpeg -> creating RoI from [x=55 y=24 w=909 h=909]
+/content/btabaci/21.jpeg [1107x943] -> /content/btabaci/darkmark_image_cache/zoom/00000155.png [f=2.18551 x=55 y=24 w=909 h=909] -> [416x416] [9/11]
+/content/btabaci/21.jpeg -> skipped RoI [x=193 y=116 w=683 h=683] due to overlap
+/content/btabaci/21.jpeg -> skipped RoI [x=129 y=324 w=455 h=455] due to overlap
+/content/btabaci/21.jpeg -> skipped RoI [x=345 y=403 w=412 h=412] due to overlap
+/content/btabaci/21.jpeg-> adding RoI because it includes point-of-interest x=1025 y=103
+/content/btabaci/21.jpeg -> creating RoI from [x=228 y=15 w=826 h=826]
+/content/btabaci/21.jpeg [1107x943] -> /content/btabaci/darkmark_image_cache/zoom/00000156.png [f=1.98483 x=228 y=15 w=826 h=826] -> [416x416] [2/11]
+/content/btabaci/21.jpeg -> skipped RoI [x=506 y=531 w=406 h=406] due to overlap
+/content/btabaci/21.jpeg-> adding RoI because it includes point-of-interest x=1083 y=112
+/content/btabaci/21.jpeg -> creating RoI from [x=292 y=90 w=797 h=797]
+/content/btabaci/21.jpeg [1107x943] -> /content/btabaci/darkmark_image_cache/zoom/00000157.jpg [f=1.91467 x=292 y=90 w=797 h=797] -> [416x416] [3/11]
+/content/btabaci/21.jpeg -> skipped RoI [x=451 y=328 w=579 h=579] due to overlap
+/content/btabaci/21.jpeg-> adding RoI because it includes point-of-interest x=1095 y=142
+/content/btabaci/21.jpeg -> creating RoI from [x=196 y=0 w=902 h=902]
+/content/btabaci/21.jpeg [1107x943] -> /content/btabaci/darkmark_image_cache/zoom/00000158.jpg [f=2.16864 x=196 y=0 w=902 h=902] -> [416x416] [4/11]
+/content/btabaci/21.jpeg -> skipped RoI [x=349 y=185 w=522 h=522] due to overlap
+/content/btabaci/21.jpeg -> skipped RoI [x=81 y=61 w=801 h=801] due to overlap
+/content/btabaci/21.jpeg -> skipped RoI [x=241 y=56 w=793 h=793] due to overlap
+/content/btabaci/21.jpeg -> skipped RoI [x=155 y=133 w=598 h=598] due to overlap
+/content/btabaci/21.jpeg -> skipped RoI [x=80 y=64 w=875 h=875] due to overlap
+/content/btabaci/22.jpeg [694x373] -> skipped (image too small)
+/content/btabaci/23.png [741x448] -> skipped (image too small)
+/content/btabaci/24.png [232x243] -> skipped (image too small)
+/content/btabaci/25.png [236x284] -> skipped (image too small)
+/content/btabaci/26.jpg [190x265] -> skipped (image too small)
+/content/btabaci/27.jpg [443x502] -> skipped (image too small)
+/content/btabaci/28.jpg [640x480] -> skipped (image too small)
+/content/btabaci/29.jpg -> creating RoI from [x=40 y=560 w=348 h=348]
+/content/btabaci/29.jpg [1057x914] -> /content/btabaci/darkmark_image_cache/zoom/00000159.png [f=0.837246 x=40 y=560 w=348 h=348] -> [416x416] [1/8]
+/content/btabaci/29.jpg -> creating RoI from [x=53 y=106 w=787 h=787]
+/content/btabaci/29.jpg [1057x914] -> /content/btabaci/darkmark_image_cache/zoom/00000160.jpg [f=1.89297 x=53 y=106 w=787 h=787] -> [416x416] [7/8]
+/content/btabaci/29.jpg-> adding RoI because it includes point-of-interest x=917 y=535
+/content/btabaci/29.jpg -> creating RoI from [x=510 y=445 w=450 h=450]
+/content/btabaci/29.jpg [1057x914] -> /content/btabaci/darkmark_image_cache/zoom/00000161.png [f=1.08104 x=510 y=445 w=450 h=450] -> [416x416] [4/8]
+/content/btabaci/29.jpg -> skipped RoI [x=90 y=255 w=595 h=595] due to overlap
+/content/btabaci/29.jpg -> skipped RoI [x=319 y=356 w=505 h=505] due to overlap
+/content/btabaci/29.jpg-> adding RoI because it includes point-of-interest x=1033 y=107
+/content/btabaci/29.jpg -> creating RoI from [x=174 y=23 w=881 h=881]
+/content/btabaci/29.jpg [1057x914] -> /content/btabaci/darkmark_image_cache/zoom/00000162.jpg [f=2.11806 x=174 y=23 w=881 h=881] -> [416x416] [8/8]
+/content/btabaci/29.jpg -> skipped RoI [x=111 y=25 w=820 h=820] due to overlap
+/content/btabaci/29.jpg -> skipped RoI [x=528 y=168 w=378 h=378] due to overlap
+/content/btabaci/29.jpg -> skipped RoI [x=217 y=64 w=820 h=820] due to overlap
+/content/btabaci/29.jpg -> skipped RoI [x=27 y=8 w=793 h=793] due to overlap
+/content/btabaci/29.jpg -> skipped RoI [x=106 y=36 w=763 h=763] due to overlap
+/content/btabaci/29.jpg -> still had 6 items remaining in the points-of-interest
+/content/btabaci/3.jpg [456x600] -> skipped (image too small)
+/content/btabaci/30.jpg [816x386] -> skipped (image too small)
+/content/btabaci/31.jpg -> creating RoI from [x=62 y=205 w=355 h=355]
+/content/btabaci/31.jpg [582x882] -> /content/btabaci/darkmark_image_cache/zoom/00000163.jpg [f=0.852511 x=62 y=205 w=355 h=355] -> [416x416] [4/8]
+/content/btabaci/31.jpg-> adding RoI because it includes point-of-interest x=487 y=321
+/content/btabaci/31.jpg -> creating RoI from [x=31 y=238 w=551 h=551]
+/content/btabaci/31.jpg [582x882] -> /content/btabaci/darkmark_image_cache/zoom/00000164.png [f=1.32433 x=31 y=238 w=551 h=551] -> [416x416] [6/8]
+/content/btabaci/31.jpg-> adding RoI because it includes point-of-interest x=294 y=68
+/content/btabaci/31.jpg -> creating RoI from [x=152 y=52 w=385 h=385]
+/content/btabaci/31.jpg [582x882] -> /content/btabaci/darkmark_image_cache/zoom/00000165.jpg [f=0.926379 x=152 y=52 w=385 h=385] -> [416x416] [4/8]
+/content/btabaci/31.jpg -> skipped RoI [x=170 y=426 w=372 h=372] due to overlap
+/content/btabaci/31.jpg-> adding RoI because it includes point-of-interest x=195 y=20
+/content/btabaci/31.jpg -> creating RoI from [x=137 y=6 w=437 h=437]
+/content/btabaci/31.jpg [582x882] -> /content/btabaci/darkmark_image_cache/zoom/00000166.png [f=1.04974 x=137 y=6 w=437 h=437] -> [416x416] [5/8]
+/content/btabaci/31.jpg-> adding RoI because it includes point-of-interest x=104 y=798
+/content/btabaci/31.jpg -> creating RoI from [x=54 y=417 w=427 h=427]
+/content/btabaci/31.jpg [582x882] -> /content/btabaci/darkmark_image_cache/zoom/00000167.png [f=1.02577 x=54 y=417 w=427 h=427] -> [416x416] [6/8]
+/content/btabaci/31.jpg -> skipped RoI [x=2 y=361 w=333 h=333] due to overlap
+/content/btabaci/31.jpg-> adding RoI because it includes point-of-interest x=19 y=746
+/content/btabaci/31.jpg -> creating RoI from [x=13 y=226 w=555 h=555]
+/content/btabaci/31.jpg [582x882] -> /content/btabaci/darkmark_image_cache/zoom/00000168.jpg [f=1.33529 x=13 y=226 w=555 h=555] -> [416x416] [6/8]
+/content/btabaci/31.jpg -> skipped RoI [x=4 y=308 w=399 h=399] due to overlap
+/content/btabaci/31.jpg -> skipped RoI [x=26 y=154 w=517 h=517] due to overlap
+/content/btabaci/31.jpg -> skipped RoI [x=146 y=219 w=385 h=385] due to overlap
+/content/btabaci/31.jpg -> skipped RoI [x=157 y=94 w=383 h=383] due to overlap
+/content/btabaci/31.jpg -> skipped RoI [x=3 y=198 w=552 h=552] due to overlap
+/content/btabaci/31.jpg -> still had 4 items remaining in the points-of-interest
+/content/btabaci/32.jpg [283x386] -> skipped (image too small)
+/content/btabaci/33.jpg [367x366] -> skipped (image too small)
+/content/btabaci/34.jpg [274x246] -> skipped (image too small)
+/content/btabaci/35.jpg [101x224] -> skipped (image too small)
+/content/btabaci/36.png [303x183] -> skipped (image too small)
+/content/btabaci/37.png [136x151] -> skipped (image too small)
+/content/btabaci/38.png [1000x501] -> skipped (image too small)
+/content/btabaci/39.png -> creating RoI from [x=414 y=12 w=459 h=459]
+/content/btabaci/39.png [1000x541] -> /content/btabaci/darkmark_image_cache/zoom/00000169.jpg [f=1.1029 x=414 y=12 w=459 h=459] -> [416x416] [90/221]
+/content/btabaci/39.png -> creating RoI from [x=196 y=94 w=352 h=352]
+/content/btabaci/39.png [1000x541] -> /content/btabaci/darkmark_image_cache/zoom/00000170.jpg [f=0.846969 x=196 y=94 w=352 h=352] -> [416x416] [84/221]
+/content/btabaci/39.png -> skipped RoI [x=469 y=29 w=401 h=401] due to overlap
+/content/btabaci/39.png-> adding RoI because it includes point-of-interest x=270 y=34
+/content/btabaci/39.png -> creating RoI from [x=30 y=34 w=445 h=445]
+/content/btabaci/39.png [1000x541] -> /content/btabaci/darkmark_image_cache/zoom/00000171.png [f=1.06964 x=30 y=34 w=445 h=445] -> [416x416] [122/221]
+/content/btabaci/39.png-> adding RoI because it includes point-of-interest x=876 y=36
+/content/btabaci/39.png -> creating RoI from [x=491 y=19 w=461 h=461]
+/content/btabaci/39.png [1000x541] -> /content/btabaci/darkmark_image_cache/zoom/00000172.jpg [f=1.109 x=491 y=19 w=461 h=461] -> [416x416] [72/221]
+/content/btabaci/39.png -> skipped RoI [x=84 y=64 w=381 h=381] due to overlap
+/content/btabaci/39.png-> adding RoI because it includes point-of-interest x=281 y=485
+/content/btabaci/39.png -> creating RoI from [x=230 y=43 w=495 h=495]
+/content/btabaci/39.png [1000x541] -> /content/btabaci/darkmark_image_cache/zoom/00000173.jpg [f=1.18886 x=230 y=43 w=495 h=495] -> [416x416] [119/221]
+/content/btabaci/39.png-> adding RoI because it includes point-of-interest x=13 y=135
+/content/btabaci/39.png -> creating RoI from [x=4 y=48 w=456 h=456]
+/content/btabaci/39.png [1000x541] -> /content/btabaci/darkmark_image_cache/zoom/00000174.jpg [f=1.0951 x=4 y=48 w=456 h=456] -> [416x416] [122/221]
+/content/btabaci/39.png -> skipped RoI [x=580 y=163 w=363 h=363] due to overlap
+/content/btabaci/39.png-> adding RoI because it includes point-of-interest x=77 y=509
+/content/btabaci/39.png -> creating RoI from [x=1 y=35 w=491 h=491]
+/content/btabaci/39.png [1000x541] -> /content/btabaci/darkmark_image_cache/zoom/00000175.jpg [f=1.18089 x=1 y=35 w=491 h=491] -> [416x416] [142/221]
+/content/btabaci/39.png -> skipped RoI [x=27 y=48 w=411 h=411] due to overlap
+/content/btabaci/39.png-> adding RoI because it includes point-of-interest x=254 y=15
+/content/btabaci/39.png -> creating RoI from [x=143 y=4 w=536 h=536]
+/content/btabaci/39.png [1000x541] -> /content/btabaci/darkmark_image_cache/zoom/00000176.png [f=1.28795 x=143 y=4 w=536 h=536] -> [416x416] [160/221]
+/content/btabaci/39.png -> skipped RoI [x=10 y=7 w=504 h=504] due to overlap
+/content/btabaci/39.png -> skipped RoI [x=71 y=23 w=493 h=493] due to overlap
+/content/btabaci/39.png -> skipped RoI [x=252 y=61 w=453 h=453] due to overlap
+/content/btabaci/39.png-> adding RoI because it includes point-of-interest x=495 y=0
+/content/btabaci/39.png -> creating RoI from [x=259 y=0 w=388 h=388]
+/content/btabaci/39.png [1000x541] -> /content/btabaci/darkmark_image_cache/zoom/00000177.png [f=0.931781 x=259 y=0 w=388 h=388] -> [416x416] [106/221]
+/content/btabaci/39.png -> skipped RoI [x=194 y=22 w=391 h=391] due to overlap
+/content/btabaci/39.png -> skipped RoI [x=10 y=41 w=406 h=406] due to overlap
+/content/btabaci/39.png -> skipped RoI [x=146 y=55 w=393 h=393] due to overlap
+/content/btabaci/39.png-> adding RoI because it includes point-of-interest x=680 y=9
+/content/btabaci/39.png -> creating RoI from [x=236 y=7 w=511 h=511]
+/content/btabaci/39.png [1000x541] -> /content/btabaci/darkmark_image_cache/zoom/00000178.jpg [f=1.22897 x=236 y=7 w=511 h=511] -> [416x416] [138/221]
+/content/btabaci/39.png -> skipped RoI [x=351 y=115 w=415 h=415] due to overlap
+/content/btabaci/39.png -> skipped RoI [x=520 y=58 w=418 h=418] due to overlap
+/content/btabaci/39.png -> skipped RoI [x=379 y=74 w=400 h=400] due to overlap
+/content/btabaci/39.png -> skipped RoI [x=567 y=28 w=375 h=375] due to overlap
+/content/btabaci/39.png -> skipped RoI [x=295 y=57 w=365 h=365] due to overlap
+/content/btabaci/39.png -> still had 22 items remaining in the points-of-interest
+/content/btabaci/4.jpg [450x577] -> skipped (image too small)
+/content/btabaci/40.jpg -> creating RoI from [x=1 y=145 w=665 h=665]
+/content/btabaci/40.jpg [673x856] -> /content/btabaci/darkmark_image_cache/zoom/00000179.jpg [f=1.59877 x=1 y=145 w=665 h=665] -> [416x416] [94/114]
+/content/btabaci/40.jpg -> skipped RoI [x=227 y=326 w=392 h=392] due to overlap
+/content/btabaci/40.jpg -> skipped RoI [x=63 y=157 w=573 h=573] due to overlap
+/content/btabaci/40.jpg-> adding RoI because it includes point-of-interest x=243 y=135
+/content/btabaci/40.jpg -> creating RoI from [x=43 y=50 w=530 h=530]
+/content/btabaci/40.jpg [673x856] -> /content/btabaci/darkmark_image_cache/zoom/00000180.png [f=1.27316 x=43 y=50 w=530 h=530] -> [416x416] [66/114]
+/content/btabaci/40.jpg-> adding RoI because it includes point-of-interest x=291 y=815
+/content/btabaci/40.jpg -> creating RoI from [x=12 y=196 w=660 h=660]
+/content/btabaci/40.jpg [673x856] -> /content/btabaci/darkmark_image_cache/zoom/00000181.png [f=1.58742 x=12 y=196 w=660 h=660] -> [416x416] [93/114]
+/content/btabaci/40.jpg -> skipped RoI [x=148 y=108 w=486 h=486] due to overlap
+/content/btabaci/40.jpg -> skipped RoI [x=225 y=347 w=404 h=404] due to overlap
+/content/btabaci/40.jpg-> adding RoI because it includes point-of-interest x=396 y=31
+/content/btabaci/40.jpg -> creating RoI from [x=120 y=2 w=505 h=505]
+/content/btabaci/40.jpg [673x856] -> /content/btabaci/darkmark_image_cache/zoom/00000182.jpg [f=1.21401 x=120 y=2 w=505 h=505] -> [416x416] [57/114]
+/content/btabaci/40.jpg -> skipped RoI [x=137 y=154 w=530 h=530] due to overlap
+/content/btabaci/40.jpg -> skipped RoI [x=173 y=99 w=459 h=459] due to overlap
+/content/btabaci/40.jpg -> skipped RoI [x=99 y=52 w=569 h=569] due to overlap
+/content/btabaci/40.jpg -> skipped RoI [x=173 y=42 w=492 h=492] due to overlap
+/content/btabaci/40.jpg -> skipped RoI [x=19 y=168 w=621 h=621] due to overlap
+/content/btabaci/40.jpg -> still had 10 items remaining in the points-of-interest
+/content/btabaci/41.jpg -> creating RoI from [x=186 y=91 w=423 h=423]
+/content/btabaci/41.jpg [633x852] -> /content/btabaci/darkmark_image_cache/zoom/00000183.png [f=1.01597 x=186 y=91 w=423 h=423] -> [416x416] [42/85]
+/content/btabaci/41.jpg -> creating RoI from [x=133 y=344 w=484 h=484]
+/content/btabaci/41.jpg [633x852] -> /content/btabaci/darkmark_image_cache/zoom/00000184.png [f=1.16371 x=133 y=344 w=484 h=484] -> [416x416] [43/85]
+/content/btabaci/41.jpg-> adding RoI because it includes point-of-interest x=69 y=421
+/content/btabaci/41.jpg -> creating RoI from [x=68 y=111 w=525 h=525]
+/content/btabaci/41.jpg [633x852] -> /content/btabaci/darkmark_image_cache/zoom/00000185.jpg [f=1.26224 x=68 y=111 w=525 h=525] -> [416x416] [52/85]
+/content/btabaci/41.jpg -> skipped RoI [x=88 y=174 w=350 h=350] due to overlap
+/content/btabaci/41.jpg-> adding RoI because it includes point-of-interest x=113 y=684
+/content/btabaci/41.jpg -> creating RoI from [x=106 y=283 w=485 h=485]
+/content/btabaci/41.jpg [633x852] -> /content/btabaci/darkmark_image_cache/zoom/00000186.jpg [f=1.16641 x=106 y=283 w=485 h=485] -> [416x416] [47/85]
+/content/btabaci/41.jpg -> skipped RoI [x=90 y=279 w=362 h=362] due to overlap
+/content/btabaci/41.jpg-> adding RoI because it includes point-of-interest x=462 y=71
+/content/btabaci/41.jpg -> creating RoI from [x=80 y=64 w=533 h=533]
+/content/btabaci/41.jpg [633x852] -> /content/btabaci/darkmark_image_cache/zoom/00000187.jpg [f=1.28058 x=80 y=64 w=533 h=533] -> [416x416] [56/85]
+/content/btabaci/41.jpg -> skipped RoI [x=118 y=210 w=486 h=486] due to overlap
+/content/btabaci/41.jpg-> adding RoI because it includes point-of-interest x=53 y=572
+/content/btabaci/41.jpg -> creating RoI from [x=18 y=96 w=544 h=544]
+/content/btabaci/41.jpg [633x852] -> /content/btabaci/darkmark_image_cache/zoom/00000188.png [f=1.30881 x=18 y=96 w=544 h=544] -> [416x416] [51/85]
+/content/btabaci/41.jpg-> adding RoI because it includes point-of-interest x=97 y=684
+/content/btabaci/41.jpg -> creating RoI from [x=15 y=171 w=573 h=573]
+/content/btabaci/41.jpg [633x852] -> /content/btabaci/darkmark_image_cache/zoom/00000189.jpg [f=1.37652 x=15 y=171 w=573 h=573] -> [416x416] [56/85]
+/content/btabaci/41.jpg-> adding RoI because it includes point-of-interest x=12 y=574
+/content/btabaci/41.jpg -> creating RoI from [x=8 y=175 w=538 h=538]
+/content/btabaci/41.jpg [633x852] -> /content/btabaci/darkmark_image_cache/zoom/00000190.jpg [f=1.29292 x=8 y=175 w=538 h=538] -> [416x416] [48/85]
+/content/btabaci/41.jpg -> skipped RoI [x=32 y=257 w=480 h=480] due to overlap
+/content/btabaci/41.jpg -> skipped RoI [x=92 y=126 w=515 h=515] due to overlap
+/content/btabaci/41.jpg -> skipped RoI [x=56 y=139 w=568 h=568] due to overlap
+/content/btabaci/41.jpg -> skipped RoI [x=6 y=150 w=549 h=549] due to overlap
+/content/btabaci/41.jpg-> adding RoI because it includes point-of-interest x=411 y=44
+/content/btabaci/41.jpg -> creating RoI from [x=35 y=3 w=566 h=566]
+/content/btabaci/41.jpg [633x852] -> /content/btabaci/darkmark_image_cache/zoom/00000191.jpg [f=1.35979 x=35 y=3 w=566 h=566] -> [416x416] [61/85]
+/content/btabaci/41.jpg -> skipped RoI [x=2 y=134 w=628 h=628] due to overlap
+/content/btabaci/41.jpg -> skipped RoI [x=0 y=177 w=631 h=631] due to overlap
+/content/btabaci/41.jpg -> skipped RoI [x=188 y=90 w=355 h=355] due to overlap
+/content/btabaci/41.jpg -> skipped RoI [x=173 y=173 w=425 h=425] due to overlap
+/content/btabaci/41.jpg -> skipped RoI [x=17 y=7 w=522 h=522] due to overlap
+/content/btabaci/41.jpg -> still had 19 items remaining in the points-of-interest
+/content/btabaci/42.jpg [520x368] -> skipped (image too small)
+/content/btabaci/43.jpg -> creating RoI from [x=14 y=45 w=498 h=498]
+/content/btabaci/43.jpg [567x663] -> /content/btabaci/darkmark_image_cache/zoom/00000192.png [f=1.19688 x=14 y=45 w=498 h=498] -> [416x416] [60/80]
+/content/btabaci/43.jpg-> adding RoI because it includes point-of-interest x=520 y=209
+/content/btabaci/43.jpg -> creating RoI from [x=36 y=24 w=487 h=487]
+/content/btabaci/43.jpg [567x663] -> /content/btabaci/darkmark_image_cache/zoom/00000193.png [f=1.17059 x=36 y=24 w=487 h=487] -> [416x416] [56/80]
+/content/btabaci/43.jpg-> adding RoI because it includes point-of-interest x=11 y=131
+/content/btabaci/43.jpg -> creating RoI from [x=11 y=41 w=433 h=433]
+/content/btabaci/43.jpg [567x663] -> /content/btabaci/darkmark_image_cache/zoom/00000194.png [f=1.04004 x=11 y=41 w=433 h=433] -> [416x416] [41/80]
+/content/btabaci/43.jpg -> skipped RoI [x=151 y=47 w=345 h=345] due to overlap
+/content/btabaci/43.jpg-> adding RoI because it includes point-of-interest x=400 y=18
+/content/btabaci/43.jpg -> creating RoI from [x=14 y=14 w=442 h=442]
+/content/btabaci/43.jpg [567x663] -> /content/btabaci/darkmark_image_cache/zoom/00000195.jpg [f=1.06282 x=14 y=14 w=442 h=442] -> [416x416] [42/80]
+/content/btabaci/43.jpg-> adding RoI because it includes point-of-interest x=293 y=556
+/content/btabaci/43.jpg -> creating RoI from [x=3 y=52 w=534 h=534]
+/content/btabaci/43.jpg [567x663] -> /content/btabaci/darkmark_image_cache/zoom/00000196.png [f=1.2848 x=3 y=52 w=534 h=534] -> [416x416] [69/80]
+/content/btabaci/43.jpg-> adding RoI because it includes point-of-interest x=546 y=201
+/content/btabaci/43.jpg -> creating RoI from [x=29 y=18 w=527 h=527]
+/content/btabaci/43.jpg [567x663] -> /content/btabaci/darkmark_image_cache/zoom/00000197.png [f=1.26593 x=29 y=18 w=527 h=527] -> [416x416] [63/80]
+/content/btabaci/43.jpg-> adding RoI because it includes point-of-interest x=416 y=592
+/content/btabaci/43.jpg -> creating RoI from [x=31 y=110 w=527 h=527]
+/content/btabaci/43.jpg [567x663] -> /content/btabaci/darkmark_image_cache/zoom/00000198.png [f=1.26684 x=31 y=110 w=527 h=527] -> [416x416] [72/80]
+/content/btabaci/43.jpg -> skipped RoI [x=180 y=210 w=346 h=346] due to overlap
+/content/btabaci/43.jpg -> skipped RoI [x=25 y=31 w=431 h=431] due to overlap
+/content/btabaci/43.jpg -> skipped RoI [x=160 y=285 w=344 h=344] due to overlap
+/content/btabaci/43.jpg -> skipped RoI [x=99 y=25 w=443 h=443] due to overlap
+/content/btabaci/43.jpg -> skipped RoI [x=41 y=16 w=523 h=523] due to overlap
+/content/btabaci/43.jpg -> still had 9 items remaining in the points-of-interest
+/content/btabaci/44.jpg [400x267] -> skipped (image too small)
+/content/btabaci/45.jpg -> creating RoI from [x=132 y=21 w=483 h=483]
+/content/btabaci/45.jpg [779x743] -> /content/btabaci/darkmark_image_cache/zoom/00000199.jpg [f=1.16114 x=132 y=21 w=483 h=483] -> [416x416] [13/24]
+/content/btabaci/45.jpg-> adding RoI because it includes point-of-interest x=118 y=120
+/content/btabaci/45.jpg -> creating RoI from [x=84 y=74 w=619 h=619]
+/content/btabaci/45.jpg [779x743] -> /content/btabaci/darkmark_image_cache/zoom/00000200.jpg [f=1.48793 x=84 y=74 w=619 h=619] -> [416x416] [19/24]
+/content/btabaci/45.jpg-> adding RoI because it includes point-of-interest x=81 y=148
+/content/btabaci/45.jpg -> creating RoI from [x=2 y=131 w=584 h=584]
+/content/btabaci/45.jpg [779x743] -> /content/btabaci/darkmark_image_cache/zoom/00000201.png [f=1.40271 x=2 y=131 w=584 h=584] -> [416x416] [16/24]
+/content/btabaci/45.jpg-> adding RoI because it includes point-of-interest x=721 y=465
+/content/btabaci/45.jpg -> creating RoI from [x=116 y=30 w=663 h=663]
+/content/btabaci/45.jpg [779x743] -> /content/btabaci/darkmark_image_cache/zoom/00000202.jpg [f=1.59309 x=116 y=30 w=663 h=663] -> [416x416] [21/24]
+/content/btabaci/45.jpg-> adding RoI because it includes point-of-interest x=81 y=93
+/content/btabaci/45.jpg -> creating RoI from [x=3 y=85 w=608 h=608]
+/content/btabaci/45.jpg [779x743] -> /content/btabaci/darkmark_image_cache/zoom/00000203.jpg [f=1.46074 x=3 y=85 w=608 h=608] -> [416x416] [17/24]
+/content/btabaci/45.jpg -> skipped RoI [x=64 y=80 w=613 h=613] due to overlap
+/content/btabaci/45.jpg-> adding RoI because it includes point-of-interest x=77 y=79
+/content/btabaci/45.jpg -> creating RoI from [x=18 y=0 w=741 h=741]
+/content/btabaci/45.jpg [779x743] -> /content/btabaci/darkmark_image_cache/zoom/00000204.png [f=1.78133 x=18 y=0 w=741 h=741] -> [416x416] [24/24]
+/content/btabaci/45.jpg -> skipped RoI [x=316 y=94 w=392 h=392] due to overlap
+/content/btabaci/45.jpg -> skipped RoI [x=84 y=96 w=566 h=566] due to overlap
+/content/btabaci/45.jpg -> skipped RoI [x=146 y=26 w=548 h=548] due to overlap
+/content/btabaci/45.jpg -> skipped RoI [x=188 y=183 w=445 h=445] due to overlap
+/content/btabaci/45.jpg -> skipped RoI [x=274 y=219 w=419 h=419] due to overlap
+/content/btabaci/45.jpg -> still had 5 items remaining in the points-of-interest
+/content/btabaci/46.jpg -> creating RoI from [x=132 y=357 w=404 h=404]
+/content/btabaci/46.jpg [868x833] -> /content/btabaci/darkmark_image_cache/zoom/00000205.png [f=0.972007 x=132 y=357 w=404 h=404] -> [416x416] [11/29]
+/content/btabaci/46.jpg-> adding RoI because it includes point-of-interest x=541 y=609
+/content/btabaci/46.jpg -> creating RoI from [x=357 y=277 w=349 h=349]
+/content/btabaci/46.jpg [868x833] -> /content/btabaci/darkmark_image_cache/zoom/00000206.png [f=0.838038 x=357 y=277 w=349 h=349] -> [416x416] [8/29]
+/content/btabaci/46.jpg-> adding RoI because it includes point-of-interest x=471 y=168
+/content/btabaci/46.jpg -> creating RoI from [x=6 y=13 w=819 h=819]
+/content/btabaci/46.jpg [868x833] -> /content/btabaci/darkmark_image_cache/zoom/00000207.png [f=1.96958 x=6 y=13 w=819 h=819] -> [416x416] [29/29]
+/content/btabaci/46.jpg -> skipped RoI [x=39 y=220 w=610 h=610] due to overlap
+/content/btabaci/46.jpg-> adding RoI because it includes point-of-interest x=517 y=0
+/content/btabaci/46.jpg -> creating RoI from [x=89 y=0 w=710 h=710]
+/content/btabaci/46.jpg [868x833] -> /content/btabaci/darkmark_image_cache/zoom/00000208.png [f=1.70648 x=89 y=0 w=710 h=710] -> [416x416] [25/29]
+/content/btabaci/46.jpg -> skipped RoI [x=186 y=42 w=612 h=612] due to overlap
+/content/btabaci/46.jpg -> skipped RoI [x=205 y=214 w=458 h=458] due to overlap
+/content/btabaci/46.jpg -> skipped RoI [x=33 y=77 w=672 h=672] due to overlap
+/content/btabaci/46.jpg -> skipped RoI [x=131 y=205 w=370 h=370] due to overlap
+/content/btabaci/46.jpg -> skipped RoI [x=18 y=90 w=626 h=626] due to overlap
+/content/btabaci/46.jpg -> still had 4 items remaining in the points-of-interest
+/content/btabaci/47.png [495x732] -> skipped (image too small)
+/content/btabaci/48.png -> creating RoI from [x=32 y=122 w=502 h=502]
+/content/btabaci/48.png [542x673] -> /content/btabaci/darkmark_image_cache/zoom/00000209.png [f=1.20767 x=32 y=122 w=502 h=502] -> [416x416] [96/109]
+/content/btabaci/48.png-> adding RoI because it includes point-of-interest x=24 y=420
+/content/btabaci/48.png -> creating RoI from [x=20 y=211 w=387 h=387]
+/content/btabaci/48.png [542x673] -> /content/btabaci/darkmark_image_cache/zoom/00000210.jpg [f=0.931059 x=20 y=211 w=387 h=387] -> [416x416] [71/109]
+/content/btabaci/48.png-> adding RoI because it includes point-of-interest x=274 y=648
+/content/btabaci/48.png -> creating RoI from [x=17 y=201 w=467 h=467]
+/content/btabaci/48.png [542x673] -> /content/btabaci/darkmark_image_cache/zoom/00000211.jpg [f=1.12333 x=17 y=201 w=467 h=467] -> [416x416] [101/109]
+/content/btabaci/48.png -> skipped RoI [x=127 y=291 w=337 h=337] due to overlap
+/content/btabaci/48.png -> skipped RoI [x=56 y=163 w=444 h=444] due to overlap
+/content/btabaci/48.png-> adding RoI because it includes point-of-interest x=9 y=420
+/content/btabaci/48.png -> creating RoI from [x=5 y=76 w=531 h=531]
+/content/btabaci/48.png [542x673] -> /content/btabaci/darkmark_image_cache/zoom/00000212.jpg [f=1.27591 x=5 y=76 w=531 h=531] -> [416x416] [94/109]
+/content/btabaci/48.png -> skipped RoI [x=63 y=87 w=373 h=373] due to overlap
+/content/btabaci/48.png -> skipped RoI [x=4 y=128 w=527 h=527] due to overlap
+/content/btabaci/48.png -> skipped RoI [x=167 y=82 w=348 h=348] due to overlap
+/content/btabaci/48.png -> skipped RoI [x=34 y=23 w=478 h=478] due to overlap
+/content/btabaci/48.png -> skipped RoI [x=123 y=151 w=419 h=419] due to overlap
+/content/btabaci/48.png -> still had 1 items remaining in the points-of-interest
+/content/btabaci/49.jpg [481x390] -> skipped (image too small)
+/content/btabaci/5.jpg [582x380] -> skipped (image too small)
+/content/btabaci/50.png [459x434] -> skipped (image too small)
+/content/btabaci/51.png [369x498] -> skipped (image too small)
+/content/btabaci/6.jpg [508x543] -> skipped (image too small)
+/content/btabaci/7.jpg [660x495] -> skipped (image too small)
+/content/btabaci/8.jpeg -> creating RoI from [x=59 y=395 w=855 h=855]
+/content/btabaci/8.jpeg [1086x1342] -> /content/btabaci/darkmark_image_cache/zoom/00000213.png [f=2.05538 x=59 y=395 w=855 h=855] -> [416x416] [63/77]
+/content/btabaci/8.jpeg-> adding RoI because it includes point-of-interest x=222 y=232
+/content/btabaci/8.jpeg -> creating RoI from [x=75 y=222 w=1010 h=1010]
+/content/btabaci/8.jpeg [1086x1342] -> /content/btabaci/darkmark_image_cache/zoom/00000214.png [f=2.42862 x=75 y=222 w=1010 h=1010] -> [416x416] [75/77]
+/content/btabaci/8.jpeg -> skipped RoI [x=440 y=664 w=560 h=560] due to overlap
+/content/btabaci/8.jpeg-> adding RoI because it includes point-of-interest x=325 y=218
+/content/btabaci/8.jpeg -> creating RoI from [x=45 y=198 w=598 h=598]
+/content/btabaci/8.jpeg [1086x1342] -> /content/btabaci/darkmark_image_cache/zoom/00000215.jpg [f=1.43722 x=45 y=198 w=598 h=598] -> [416x416] [30/77]
+/content/btabaci/8.jpeg-> adding RoI because it includes point-of-interest x=695 y=209
+/content/btabaci/8.jpeg -> creating RoI from [x=28 y=183 w=857 h=857]
+/content/btabaci/8.jpeg [1086x1342] -> /content/btabaci/darkmark_image_cache/zoom/00000216.png [f=2.06129 x=28 y=183 w=857 h=857] -> [416x416] [65/77]
+/content/btabaci/8.jpeg -> skipped RoI [x=266 y=255 w=801 h=801] due to overlap
+/content/btabaci/8.jpeg -> skipped RoI [x=70 y=584 w=598 h=598] due to overlap
+/content/btabaci/8.jpeg-> adding RoI because it includes point-of-interest x=478 y=127
+/content/btabaci/8.jpeg -> creating RoI from [x=188 y=89 w=767 h=767]
+/content/btabaci/8.jpeg [1086x1342] -> /content/btabaci/darkmark_image_cache/zoom/00000217.png [f=1.84308 x=188 y=89 w=767 h=767] -> [416x416] [51/77]
+/content/btabaci/8.jpeg -> skipped RoI [x=178 y=207 w=886 h=886] due to overlap
+/content/btabaci/8.jpeg-> adding RoI because it includes point-of-interest x=534 y=1258
+/content/btabaci/8.jpeg -> creating RoI from [x=105 y=548 w=757 h=757]
+/content/btabaci/8.jpeg [1086x1342] -> /content/btabaci/darkmark_image_cache/zoom/00000218.png [f=1.81903 x=105 y=548 w=757 h=757] -> [416x416] [53/77]
+/content/btabaci/8.jpeg-> adding RoI because it includes point-of-interest x=436 y=80
+/content/btabaci/8.jpeg -> creating RoI from [x=122 y=51 w=816 h=816]
+/content/btabaci/8.jpeg [1086x1342] -> /content/btabaci/darkmark_image_cache/zoom/00000219.png [f=1.96232 x=122 y=51 w=816 h=816] -> [416x416] [53/77]
+/content/btabaci/8.jpeg -> skipped RoI [x=25 y=279 w=914 h=914] due to overlap
+/content/btabaci/8.jpeg -> skipped RoI [x=38 y=246 w=737 h=737] due to overlap
+/content/btabaci/8.jpeg -> skipped RoI [x=518 y=673 w=470 h=470] due to overlap
+/content/btabaci/8.jpeg -> skipped RoI [x=21 y=258 w=868 h=868] due to overlap
+/content/btabaci/8.jpeg -> skipped RoI [x=6 y=14 w=1060 h=1060] due to overlap
+/content/btabaci/9.jpeg -> creating RoI from [x=13 y=157 w=682 h=682]
+/content/btabaci/9.jpeg [820x1050] -> /content/btabaci/darkmark_image_cache/zoom/00000220.png [f=1.63864 x=13 y=157 w=682 h=682] -> [416x416] [10/24]
+/content/btabaci/9.jpeg-> adding RoI because it includes point-of-interest x=725 y=478
+/content/btabaci/9.jpeg -> creating RoI from [x=27 y=47 w=737 h=737]
+/content/btabaci/9.jpeg [820x1050] -> /content/btabaci/darkmark_image_cache/zoom/00000221.png [f=1.77056 x=27 y=47 w=737 h=737] -> [416x416] [17/24]
+/content/btabaci/9.jpeg-> adding RoI because it includes point-of-interest x=258 y=944
+/content/btabaci/9.jpeg -> creating RoI from [x=76 y=409 w=581 h=581]
+/content/btabaci/9.jpeg [820x1050] -> /content/btabaci/darkmark_image_cache/zoom/00000222.png [f=1.39588 x=76 y=409 w=581 h=581] -> [416x416] [9/24]
+/content/btabaci/9.jpeg -> skipped RoI [x=179 y=12 w=379 h=379] due to overlap
+/content/btabaci/9.jpeg -> skipped RoI [x=80 y=257 w=675 h=675] due to overlap
+/content/btabaci/9.jpeg -> skipped RoI [x=217 y=219 w=436 h=436] due to overlap
+/content/btabaci/9.jpeg -> skipped RoI [x=59 y=19 w=649 h=649] due to overlap
+/content/btabaci/9.jpeg-> adding RoI because it includes point-of-interest x=287 y=992
+/content/btabaci/9.jpeg -> creating RoI from [x=1 y=199 w=819 h=819]
+/content/btabaci/9.jpeg [820x1050] -> /content/btabaci/darkmark_image_cache/zoom/00000223.jpg [f=1.96926 x=1 y=199 w=819 h=819] -> [416x416] [17/24]
+/content/btabaci/9.jpeg -> skipped RoI [x=52 y=103 w=739 h=739] due to overlap
+/content/btabaci/9.jpeg -> skipped RoI [x=410 y=637 w=364 h=364] due to overlap
+/content/btabaci/9.jpeg -> skipped RoI [x=38 y=127 w=495 h=495] due to overlap
+/content/btabaci/9.jpeg -> skipped RoI [x=58 y=46 w=761 h=761] due to overlap
+/content/btabaci/9.jpeg -> skipped RoI [x=121 y=264 w=645 h=645] due to overlap
+/content/btabaci/9.jpeg -> still had 5 items remaining in the points-of-interest
+/content/btabaci/stormy-whitefly.png -> creating RoI from [x=187 y=298 w=512 h=512]
+/content/btabaci/stormy-whitefly.png [1200x900] -> /content/btabaci/darkmark_image_cache/zoom/00000224.png [f=1.23104 x=187 y=298 w=512 h=512] -> [416x416] [158/475]
+/content/btabaci/stormy-whitefly.png -> creating RoI from [x=231 y=32 w=523 h=523]
+/content/btabaci/stormy-whitefly.png [1200x900] -> /content/btabaci/darkmark_image_cache/zoom/00000225.png [f=1.25749 x=231 y=32 w=523 h=523] -> [416x416] [195/475]
+/content/btabaci/stormy-whitefly.png-> adding RoI because it includes point-of-interest x=767 y=175
+/content/btabaci/stormy-whitefly.png -> creating RoI from [x=137 y=6 w=828 h=828]
+/content/btabaci/stormy-whitefly.png [1200x900] -> /content/btabaci/darkmark_image_cache/zoom/00000226.jpg [f=1.99005 x=137 y=6 w=828 h=828] -> [416x416] [472/475]
+/content/btabaci/stormy-whitefly.png-> adding RoI because it includes point-of-interest x=677 y=848
+/content/btabaci/stormy-whitefly.png -> creating RoI from [x=309 y=40 w=856 h=856]
+/content/btabaci/stormy-whitefly.png [1200x900] -> /content/btabaci/darkmark_image_cache/zoom/00000227.png [f=2.05669 x=309 y=40 w=856 h=856] -> [416x416] [472/475]
+/content/btabaci/stormy-whitefly.png -> skipped RoI [x=320 y=174 w=626 h=626] due to overlap
+/content/btabaci/stormy-whitefly.png -> skipped RoI [x=308 y=159 w=663 h=663] due to overlap
+/content/btabaci/stormy-whitefly.png -> skipped RoI [x=571 y=161 w=522 h=522] due to overlap
+/content/btabaci/stormy-whitefly.png-> adding RoI because it includes point-of-interest x=48 y=124
+/content/btabaci/stormy-whitefly.png -> creating RoI from [x=30 y=25 w=661 h=661]
+/content/btabaci/stormy-whitefly.png [1200x900] -> /content/btabaci/darkmark_image_cache/zoom/00000228.jpg [f=1.58862 x=30 y=25 w=661 h=661] -> [416x416] [179/475]
+/content/btabaci/stormy-whitefly.png -> skipped RoI [x=440 y=138 w=364 h=364] due to overlap
+/content/btabaci/stormy-whitefly.png -> skipped RoI [x=284 y=34 w=859 h=859] due to overlap
+/content/btabaci/stormy-whitefly.png -> skipped RoI [x=362 y=248 w=343 h=343] due to overlap
+/content/btabaci/stormy-whitefly.png -> skipped RoI [x=333 y=168 w=470 h=470] due to overlap
+/content/btabaci/stormy-whitefly.png -> skipped RoI [x=1 y=214 w=484 h=484] due to overlap

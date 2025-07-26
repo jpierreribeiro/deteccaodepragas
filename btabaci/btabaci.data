@@ -1,0 +1,5 @@
+classes = 1
+train = /content/btabaci/btabaci_train.txt
+valid = /content/btabaci/btabaci_valid.txt
+names = /content/btabaci/btabaci.names
+backup = /content/btabaci
